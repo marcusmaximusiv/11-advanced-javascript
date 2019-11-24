@@ -13,6 +13,7 @@ _____________
 The letter and words.js were create and the functions were created as expected but the issue i am having is pushing the blank values along with the blank word to the index.js
 what i encounter is an error dealing with space once i try to use it and i cannot get letter.js and word.js and their functions to work with index.js
 I am also having difficulty on some of the functions and everything needing to be called upon by letter and word.js
+    
     ________________
     for word js having issues with the following entries:
     ________________
