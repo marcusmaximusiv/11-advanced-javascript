@@ -13,12 +13,19 @@ _____________
 The letter and words.js were create and the functions were created as expected but the issue i am having is pushing the blank values along with the blank word to the index.js
 what i encounter is an error dealing with space once i try to use it and i cannot get letter.js and word.js and their functions to work with index.js
 I am also having difficulty on some of the functions and everything needing to be called upon by letter and word.js
-for word js having issues with the following entries:
-  * A function that returns a string representing the word. This should call the function on each letter object (the first function defined in `Letter.js`) that displays the character or an underscore and concatenate those together.
+    ________________
+    for word js having issues with the following entries:
+    ________________
 
-  * A function that takes a character as an argument and calls the guess function on each letter object (the second function defined in `Letter.js`)
-For letter.js having the following issues
-  * A function that takes a character as an argument and checks it against the underlying character, updating the stored boolean value to true if it was guessed correctly
+    * A function that returns a string representing the word. This should call the function on each letter object (the first function defined in `Letter.js`) that displays the character or an underscore and concatenate those together.
+
+    * A function that takes a character as an argument and calls the guess function on each letter object (the second function defined in `Letter.js`)
+
+    _______________
+    For letter.js having the following issues:
+    _______________
+    
+    * A function that takes a character as an argument and checks it against the underlying character, updating the stored boolean value to true if it was guessed correctly
 
 ______________
 
